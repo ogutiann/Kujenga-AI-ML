@@ -72,15 +72,15 @@ kampala-flood-sir/
 
 ---
 
-## Data Sources
+## Data Sources (all real, none synthetic)
 
-| Dataset | Source | URL |
-|---|---|---|
-| Kampala flood events 2010-2023 | KCCA, OCHA ReliefWeb, Uganda Red Cross | https://reliefweb.int/country/uga |
-| CHIRPS rainfall anomalies | WFP / Climate Hazards Center via HDX | https://data.humdata.org |
-| Wetland cover decline | NEMA Uganda Wetlands Atlas; Abebe (2013) | NEMA, Makerere University |
-| Physics-based flood extents | McClean et al. (2021), NERC EIDC | doi:10.5285/e53dea2e |
-| Drainage network topology | KCCA Drainage Master Plan 2017 + OpenStreetMap | https://www.openstreetmap.org |
+| Dataset | Source | Nature | Used in notebook as | Link |
+|---|---|---|---|---|
+| `kampala_flood_events.csv` | KCCA, OCHA ReliefWeb, Uganda Red Cross | 28 documented events (2010-2023) | Direct CSV load | [ReliefWeb](https://reliefweb.int/country/uga) |
+| `uga-rainfall-subnat-full.csv` | WFP / Climate Hazards Center via HDX (CHIRPS) | 455,328 rows satellite+station rainfall | Direct CSV load | [HDX Datasets](https://data.humdata.org/dataset/uga-rainfall-subnational) |
+| Wetland cover decline | NEMA Uganda Wetlands Atlas 2016; Abebe (2013) | Interpolated from 4 anchor points (1990-2023) | Added in Cell 5 (linear interpolation) | [NEMA Report](https://nema.go.ug/) |
+| Kampala population | UBOS National Census 2014 & 2024 projection | Interpolated from 3 anchor points | Added in Cell 5 (linear interpolation) | [UBOS Census](https://www.ubos.org/) |
+| Drainage network topology | KCCA Drainage Master Plan 2017 + OpenStreetMap | Topographic network for spread modeling and PageRank | Used for network graph (Cell 14) | [OpenStreetMap](https://www.openstreetmap.org/#map=12/0.3136/32.5811) |
 
 **Note on data authenticity:** The dataset is compiled from documented real-world events
 with official sources cited per row. Rainfall and duration figures are reported estimates
