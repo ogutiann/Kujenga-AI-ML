@@ -6,7 +6,7 @@
 |---|---|
 | **Student** | Ann Move Oguti |
 | **Institution** | Soroti University, Uganda |
-| **Submission** | 2025 |
+| **Submission** | 2026 |
 
 ---
 
@@ -64,7 +64,12 @@ kampala-flood-sir/
 4. All datasets load automatically from this GitHub repository
 5. All figures save to a `figures/` folder automatically
 
-**No local file uploads needed.**
+**OR.**
+1. To upload to Colab manually:
+2. Open the notebook in Colab
+3. Click the folder icon in the left sidebar
+4. Drag and drop kampala_flood_events.csv and uga-rainfall-subnat-full.csv (download the datasets from Github first)
+5. Run all cells — Cell 2 and Cell 3 will detect the uploaded files automatically and print Loading from Colab upload
 
 ---
 
