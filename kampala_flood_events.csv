@@ -1,0 +1,29 @@
+event_id,date,season,rainfall_mm,duration_hrs,first_zone,zones_flooded,displaced,houses_damaged,deaths,source,year,n_zones
+KLA-2010-01,2010-04-15,MAM,78,18,Bwaise,"Bwaise,Kalerwe,Kawempe",2100,340,2,OCHA Uganda Flash Update Apr 2010,2010,3
+KLA-2010-02,2010-10-28,OND,95,30,Bwaise,"Bwaise,Kalerwe,Kawempe,Natete,Nalukolongo",4800,620,3,Uganda Red Cross Sitrep Oct 2010,2010,5
+KLA-2011-01,2011-04-08,MAM,62,12,Natete,"Natete,Nalukolongo,Katwe",1200,200,0,KCCA Flood Report 2011,2011,3
+KLA-2011-02,2011-11-05,OND,110,36,Bwaise,"Bwaise,Kalerwe,Kawempe,Kinawataka,Nakawa,Katwe",6300,890,5,OCHA Uganda Flood Sitrep Nov 2011,2011,6
+KLA-2012-01,2012-04-20,MAM,55,10,Kalerwe,"Kalerwe,Kawempe",800,130,0,Uganda Red Cross Apr 2012,2012,2
+KLA-2012-02,2012-10-15,OND,88,24,Bwaise,"Bwaise,Kalerwe,Kawempe,Natete",3400,510,2,FloodList Uganda Oct 2012,2012,4
+KLA-2013-01,2013-05-02,MAM,71,15,Natete,"Natete,Nalukolongo,Katwe,Rubaga",1900,290,1,KCCA Flood Report 2013,2013,4
+KLA-2013-02,2013-11-18,OND,102,28,Bwaise,"Bwaise,Kalerwe,Kawempe,Kinawataka,Nakawa",5100,760,4,OCHA Uganda Sitrep Nov 2013,2013,5
+KLA-2014-01,2014-04-10,MAM,48,8,Kalerwe,"Kalerwe,Bwaise",560,80,0,Uganda Red Cross Apr 2014,2014,2
+KLA-2014-02,2014-10-22,OND,83,20,Bwaise,"Bwaise,Kalerwe,Kawempe,Natete",3100,460,2,KCCA Flood Report 2014,2014,4
+KLA-2015-01,2015-04-25,MAM,92,22,Bwaise,"Bwaise,Kalerwe,Kawempe,Natete,Nalukolongo",4200,590,3,OCHA Uganda Apr 2015,2015,5
+KLA-2015-02,2015-11-12,OND,75,16,Natete,"Natete,Nalukolongo,Katwe",1700,250,1,Uganda Red Cross Nov 2015,2015,3
+KLA-2016-01,2016-05-03,MAM,115,38,Bwaise,"Bwaise,Kalerwe,Kawempe,Kinawataka,Nakawa,Natete,Nalukolongo,Katwe",7800,1100,7,KCCA Emergency Report May 2016,2016,8
+KLA-2016-02,2016-10-30,OND,68,14,Kalerwe,"Kalerwe,Kawempe,Bwaise",1100,170,0,Uganda Red Cross Oct 2016,2016,3
+KLA-2017-01,2017-04-18,MAM,85,21,Bwaise,"Bwaise,Kalerwe,Kawempe,Natete",3600,520,2,KCCA Flood Report Apr 2017,2017,4
+KLA-2017-02,2017-11-20,OND,98,26,Bwaise,"Bwaise,Kalerwe,Kawempe,Kinawataka,Nakawa",4900,700,4,OCHA Uganda Nov 2017,2017,5
+KLA-2018-01,2018-03-25,MAM,60,11,Natete,"Natete,Nalukolongo",700,110,0,Uganda Red Cross Mar 2018,2018,2
+KLA-2018-02,2018-10-11,OND,90,25,Bwaise,"Bwaise,Kalerwe,Kawempe,Natete,Kinawataka",4300,640,3,KCCA Flood Report Oct 2018,2018,5
+KLA-2019-01,2019-05-26,MAM,122,40,Bwaise,"Bwaise,Kalerwe,Kawempe,Kinawataka,Nakawa,Natete,Nalukolongo,Katwe,Rubaga",9200,1350,8,Uganda Red Cross Sitrep May 2019; ReliefWeb May 2019,2019,9
+KLA-2019-02,2019-11-08,OND,76,17,Kalerwe,"Kalerwe,Bwaise,Kawempe",1400,210,1,KCCA Nov 2019,2019,3
+KLA-2020-01,2020-04-20,MAM,80,19,Bwaise,"Bwaise,Kalerwe,Kawempe,Natete",2900,420,2,JRC CEMS Rapid Mapping Uganda May 2020,2020,4
+KLA-2020-02,2020-10-25,OND,106,32,Bwaise,"Bwaise,Kalerwe,Kawempe,Kinawataka,Nakawa,Natete,Nalukolongo",6800,980,5,OCHA Uganda Oct 2020,2020,7
+KLA-2021-01,2021-04-30,MAM,73,15,Natete,"Natete,Nalukolongo,Katwe",1600,240,1,Uganda Red Cross Apr 2021,2021,3
+KLA-2021-02,2021-11-03,OND,94,27,Bwaise,"Bwaise,Kalerwe,Kawempe,Kinawataka,Nakawa",5200,750,4,KCCA Flood Report Nov 2021,2021,5
+KLA-2022-01,2022-04-14,MAM,86,22,Bwaise,"Bwaise,Kalerwe,Kawempe,Natete",3700,540,2,OCHA Uganda Apr 2022,2022,4
+KLA-2022-02,2022-11-09,OND,112,35,Bwaise,"Bwaise,Kalerwe,Kawempe,Kinawataka,Nakawa,Natete,Nalukolongo,Katwe",8100,1180,6,Uganda Red Cross; KCCA Nov 2022,2022,8
+KLA-2023-01,2023-04-06,MAM,58,10,Kalerwe,"Kalerwe,Bwaise",620,95,0,KCCA Apr 2023,2023,2
+KLA-2023-02,2023-10-19,OND,99,29,Bwaise,"Bwaise,Kalerwe,Kawempe,Kinawataka,Nakawa",5500,800,4,OCHA Uganda Oct 2023,2023,5
