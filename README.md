@@ -44,14 +44,13 @@ kampala-flood-sir/
 ├── kampala_flood_augmented.csv                # Augmented dataset with CHIRPS + McClean data
 ├── README.md                                  # This file
 └── figures/
-    ├── fig1_overview.png                      # Exploratory overview
-    ├── fig2_drainage_network.png              # Kampala drainage network map
-    ├── fig3_sir_epidemic_curve.png            # SIR epidemic curves (ODE + Monte Carlo)
-    ├── fig4_network_snapshots.png             # Flood spread at three time steps
-    ├── fig5_regression.png                    # Regression: rainfall vs displacement
-    ├── fig6_ttest_boxplot.png                 # Hypothesis test: valley vs hillside
-    ├── fig7_pagerank.png                      # PageRank centrality ranking
-    └── fig8_sensitivity.png                   # Sensitivity analysis
+    ├── fig1_exploratory.png                   # Exploratory overview
+    ├── fig2_sir_curve.png                     # SIR epidemic curves (ODE + Monte Carlo)
+    ├── fig3_regression.png                    # Regression: rainfall vs displacement
+    ├── fig4_ttest.png                         # Hypothesis test: valley vs hillside
+    ├── fig5_pagerank.png                      # PageRank centrality ranking + drainage network map
+	├── fig6_network_snapshots.png             # Flood spread at three time steps
+    └── fig7_sensitivity.png                   # Sensitivity analysis
 ```
 
 ---
